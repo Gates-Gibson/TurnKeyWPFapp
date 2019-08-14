@@ -1,0 +1,15 @@
+D:\Interview Applications\WpfPersonApplication\WpfPersonApplication\WpfPersonApplication\bin\Debug\WpfPersonApplication.exe.config
+D:\Interview Applications\WpfPersonApplication\WpfPersonApplication\WpfPersonApplication\bin\Debug\WpfPersonApplication.exe
+D:\Interview Applications\WpfPersonApplication\WpfPersonApplication\WpfPersonApplication\bin\Debug\WpfPersonApplication.pdb
+D:\Interview Applications\WpfPersonApplication\WpfPersonApplication\WpfPersonApplication\obj\Debug\MainWindow.g.cs
+D:\Interview Applications\WpfPersonApplication\WpfPersonApplication\WpfPersonApplication\obj\Debug\App.g.cs
+D:\Interview Applications\WpfPersonApplication\WpfPersonApplication\WpfPersonApplication\obj\Debug\WpfPersonApplication_MarkupCompile.cache
+D:\Interview Applications\WpfPersonApplication\WpfPersonApplication\WpfPersonApplication\obj\Debug\WpfPersonApplication_MarkupCompile.lref
+D:\Interview Applications\WpfPersonApplication\WpfPersonApplication\WpfPersonApplication\obj\Debug\MainWindow.baml
+D:\Interview Applications\WpfPersonApplication\WpfPersonApplication\WpfPersonApplication\obj\Debug\WpfPersonApplication.g.resources
+D:\Interview Applications\WpfPersonApplication\WpfPersonApplication\WpfPersonApplication\obj\Debug\WpfPersonApplication.Properties.Resources.resources
+D:\Interview Applications\WpfPersonApplication\WpfPersonApplication\WpfPersonApplication\obj\Debug\WpfPersonApplication.csproj.GenerateResource.cache
+D:\Interview Applications\WpfPersonApplication\WpfPersonApplication\WpfPersonApplication\obj\Debug\WpfPersonApplication.csproj.CoreCompileInputs.cache
+D:\Interview Applications\WpfPersonApplication\WpfPersonApplication\WpfPersonApplication\obj\Debug\WpfPersonApplication.exe
+D:\Interview Applications\WpfPersonApplication\WpfPersonApplication\WpfPersonApplication\obj\Debug\WpfPersonApplication.pdb
+D:\Interview Applications\WpfPersonApplication\WpfPersonApplication\WpfPersonApplication\obj\Debug\WpfPersonApplication.csprojAssemblyReference.cache
